@@ -12,8 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/akhmedov_0205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akhmedov_0205" height="30" width="40" /></a>
-  <a href="https://telegram.com/Ahmedov95005" target="blank"><img align="center" src="" alt="akhmedov_0205" height="30" width="40" /></a>
-  <a href="https://iconscout.com/icons/telegram" target="_blank">Free Telegram Logo Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia">Icon Mafia</a> on <a href="https://iconscout.com">IconScout</a>
+  <a href="https://telegram.com/Ahmedov95005" target="blank"><img align="center" src="https://download.logo.wine/logo/Telegram_(software)/Telegram_(software)-Logo.wine.png" alt="akhmedov_0205" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
