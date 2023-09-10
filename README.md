@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **axmedov200505@gmail.com**
 
-- ⚡ Fun fact **Funny**
+- ⚡ Fun fact **Coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
