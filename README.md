@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **JavaScript, React, Node.js, TypeScript**
 - 📫 How to reach me **axmedov200505@gmail.com**
 
-- ⚡ Fun fact **Coding**
+- ⚡ Life With **Coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
