@@ -4,8 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhmedovms&label=Profile%20views&color=0e75b6&style=flat" alt="akhmedovms" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, React, Node.js, TypeScript**
-- 📫 How to reach me **axmedov200505@gmail.com**
+- 🌱 I’m currently learning **JavaScript, React, TypeScript**
 
 - ⚡ Life With **Coding**
 
